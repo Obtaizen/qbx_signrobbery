@@ -277,3 +277,4 @@ Mini game while stealing sign:
 Holding the sign:
 ![FiveM_GTAProcess_TuNvNjKSJe](https://github.com/user-attachments/assets/4ca7de8d-3c16-4c34-8b00-d43173db0342)
 
+Credits to https://github.com/amsali22 for helping build a lot of the code
