@@ -16,7 +16,7 @@ Drag qbx_signrobbery from your downloads folder to your [qbx] folder make sure y
 
 ### Step 2:
 
-Open qbx_signrobbery and in the images folder drop and drop them from there into ox_inventory/web/images
+Open qbx_signrobbery and in the images folder drag and drop them from there into ox_inventory/web/images
 
 ### Step 3:
 
