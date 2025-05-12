@@ -21,7 +21,8 @@ Open qbx_signrobbery and in the images folder drag and drop them from there into
 ### Step 3:
 
 Open your ox_inventory/data/items.lua and insert these items
-```    ['stopsign'] = {
+```lua
+    ['stopsign'] = {
         label = 'Stop Sign',
         weight = 1000,
         stack = true,
@@ -122,7 +123,8 @@ Open your ox_inventory/data/items.lua and insert these items
 ### Step 4
 
 In scully_emotemenu go to shared/data/emotes then insert these emotes
-``` {
+```lua
+ {
             Label = 'Steal Intersection Sign ',
             Command = 'ssign13',
             Animation = 'base_club_shoulder',
