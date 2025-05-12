@@ -1,6 +1,6 @@
 ![brave_7Xjc7tTdGu](https://github.com/user-attachments/assets/75463fc1-5107-4ccf-aa43-76b72f51c4d7)
 
-## qbx-signrobbery
+## qbx_signrobbery
 A script that give you the ability to steal signs, hold them and trade them for materials all over the map.
 
 ## Dependencies:
