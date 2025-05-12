@@ -5,8 +5,10 @@ A script that give you the ability to steal signs, hold them and trade them for 
 
 ## Dependencies:
 
+* qbx_core - https://github.com/Qbox-project/qbx_core
 * ox_inventory - https://github.com/overextended/ox_inventory
 * scully_emotemenu - https://github.com/Scullyy/scully_emotemenu
+* ox_lib - https://github.com/overextended/ox_lib
 
 ## How to Install
 
