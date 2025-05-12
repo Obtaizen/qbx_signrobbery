@@ -12,7 +12,7 @@ A script that give you the ability to steal signs, hold them and trade them for 
 
 ### Step 1:
 
-Drag qbx_signrobbery from your downloads folder to your [qbx] folder
+Drag qbx_signrobbery from your downloads folder to your [qbx] folder make sure you remove the _main so the resource is name qbx_singrobbery and not qbx_signrobbery_main
 
 ### Step 2:
 
