@@ -124,7 +124,7 @@ Open your ox_inventory/data/items.lua and insert these items
 
 ### Step 4
 
-In scully_emotemenu go to shared/data/emotes then insert these emotes
+In scully_emotemenu go to shared/data/emotes/prop_emotes.lua then insert these emotes
 ```lua
  {
             Label = 'Steal Intersection Sign ',
